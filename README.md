@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsan-malik
+- 👋 Hi, I’m @ahsan-malik Software Engineer Android @ Game District Lahore Pakistan
 - 👀 I’m interested in Android, iOS, KMM, Flutter
 - 🌱 I’m currently learning KMM, iOS swift UI
 - 💞️ I’m looking to collaborate on KMM projects
